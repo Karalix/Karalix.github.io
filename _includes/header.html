@@ -1,0 +1,24 @@
+
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+  
+<nav>
+  <img id="portrait" src="https://gravatar.com/avatar/817833d91da8eeea0238d39c821a6768"></img>
+  <p class="author">Alix Ducros</p>
+  <p>Ph.D. student</p>
+  <div class="row-fix">
+    <div class="col-3-fix">{% include icon-github.html %}</div>
+    <div class="col-3-fix">{% include icon-linkedin.html %}</div>
+    <div class="col-3-fix">{% include icon-codepen.html %}</div>
+    <div class="col-3-fix">{% include icon-mail.html %}</div>
+  </div>
+  <ul>
+    <li><a class="page-link" href="{{ "/" | relative_url }}">Home</a></li>
+    {% for path in page_paths %}
+      {% assign my_page = site.pages | where: "path", path | first %}
+      {% if my_page.title %}
+      <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
