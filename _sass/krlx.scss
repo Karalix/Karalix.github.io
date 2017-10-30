@@ -51,6 +51,12 @@ $on-laptop:        800px !default;
 */
 body{
   margin: 0;
+  background-color: #f0f3f7;
+  color: #050517;
+}
+
+a{
+  color: #050517;
 }
 
 #upper-margin{
@@ -58,7 +64,7 @@ body{
 }
 
 nav{
-  border-right: solid 1px black;
+  border-right: solid 4px #e8871e;
   padding-left: 24px;
   
   .author {
@@ -100,4 +106,8 @@ main{
 
 footer{
   margin-left: 24px;
+}
+
+#icons8{
+  color: #efc88b;
 }
