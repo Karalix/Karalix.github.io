@@ -3,6 +3,18 @@ title: "Curriculum Vitae"
 layout: page
 ---
 
+## Ph.D. in Human-Computer Interaction
+
+*September 2017 - now*
+
+[@LIRIS](http://liris.cnrs.fr)
+
+Working on the [PLACED project](http://www.placedproject.eu) under the direction of [Aurélien Tabard](http://www.tabard.fr). My Ph.D. focuses on distributed public ambient displays, how to prototype them and their use in PLACED.
+
+**Keywords :** *research*, *HCI*, *ubicomp*, *viz*
+
+----
+
 ## UX Design and JS Develoment - Internship
 
 *February 2017 - July 2017*
@@ -11,7 +23,7 @@ layout: page
 
 Design and development of a digital touch table interface encouraging discoverability and serendipity in public libraries. [Github repo](https://github.com/biinlab/bibliotouch).
 
-**Keywords :** zoomable interfaces, interactive surfaces, data visualization, NodeJS, VueJS, Open Source
+**Keywords :** *zoomable interfaces*, *interactive surfaces*, *data visualization*, *NodeJS*, *VueJS*, *Open Source*
 
 ----
 
@@ -21,7 +33,7 @@ Design and development of a digital touch table interface encouraging discoverab
 
 [@ParisXI](http://www.u-psud.fr/fr/index.html)
 
-**Keywords :** HCI, UX, Js, IoT, Fablab
+**Keywords :** *HCI*, *UX*, *Js*, *IoT*, *Fablab*
 
 ----
 
@@ -31,7 +43,7 @@ Design and development of a digital touch table interface encouraging discoverab
 
 [@Lyon1](https://www.univ-lyon1.fr/)
 
-**Keywords :** Java, C++, Js, AI, compilation, Databases
+**Keywords :** *Java*, *C++*, *Js*, *AI*, *compilation*, *Databases*
 
 ----
 
@@ -43,7 +55,7 @@ Design and development of a digital touch table interface encouraging discoverab
 
 Development of new specifications, automated tests and user support on a business Java EE application.
 
-**Keywords :** Java EE
+**Keywords :** *Java EE*
 
 ----
 
@@ -55,7 +67,7 @@ Development of new specifications, automated tests and user support on a busines
 
 Development of native mobile applications targeting iOs, Android, WP, Sailfish
 
-**Keywords :** Java, Objective-C, C#, C++, Qt, Ionic
+**Keywords :** *Java*, *Objective-C*, *C#*, *C++*, *Qt*, *Ionic*
 
 ----
 
@@ -67,7 +79,7 @@ Development of native mobile applications targeting iOs, Android, WP, Sailfish
 
 Development of a C++ application retrieving measures from several radars, then displaying current precipitations and raising alerts when needed
 
-**Keywords :** C++, Qt
+**Keywords :** *C++*, *Qt*
 
 ----
 
@@ -79,4 +91,4 @@ Development of a C++ application retrieving measures from several radars, then d
 
 Development of realtime C++ applications, Linux systems administration
 
-**Keywords :** C/C++, Qt, Linux
+**Keywords :** *C/C++*, *Qt*, *Linux*
