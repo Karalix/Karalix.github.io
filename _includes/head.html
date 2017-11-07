@@ -6,10 +6,10 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600%7CRaleway:400,600">
-  <link rel="preload" as="style" href="https://codepen.io/Karalix/pen/oGYOpM.css">
-  <link rel="preload" as="style" href="https://codepen.io/Karalix/pen/dVNbrY.css">
-  <link rel="preload" as="style" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600%7CRaleway:400,600">
+  <link rel="stylesheet" href="https://codepen.io/Karalix/pen/oGYOpM.css">
+  <link rel="stylesheet" href="https://codepen.io/Karalix/pen/dVNbrY.css">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
