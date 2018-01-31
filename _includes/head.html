@@ -5,7 +5,9 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-
+  <script type="application/ld+json">
+    { "@context" : "http://schema.org", "@type" : "Person", "name" : "{{site.title}}", "url" : "{{site.url}}", "sameAs" : null } 
+  </script>
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600%7CRaleway:400,600">
   <link rel="preload" as="style" href="https://codepen.io/Karalix/pen/oGYOpM.css">
   <link rel="preload" as="style" href="https://codepen.io/Karalix/pen/dVNbrY.css">
