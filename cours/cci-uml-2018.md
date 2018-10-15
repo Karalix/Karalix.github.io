@@ -1,5 +1,5 @@
 ---
-title: "Conception des Systèmes d'information, Génie Logiciel 2018"
+title: "Conception logicielle 2018"
 layout: page
 ---
 

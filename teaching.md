@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## 2018-19
-### Conception des Systèmes d'information
+### [Conception des Systèmes d'information](/cours/cci-uml-2018)
 
 *26h*
 
