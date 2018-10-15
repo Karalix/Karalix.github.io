@@ -22,6 +22,7 @@ url: "http://krlx.fr" # the base hostname & protocol for your site, e.g. http://
 github_username:  Karalix
 codepen_username: Karalix
 linkedin_username: alixducros
+hal: https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/alix-ducros
 
 # Build settings
 markdown: kramdown
