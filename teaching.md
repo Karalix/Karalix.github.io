@@ -10,6 +10,8 @@ layout: page
 
 Encadrement des CM, TD et TP de l'UE Conception des Systèmes d'Information, Génie Logiciel du [Master 2 CCI de Lyon 1](http://master-info.univ-lyon1.fr/CCI/#1).
 
+Supports de cours à venir.
+
 ## 2017-18
 ### Web Avancé et mobile
 
