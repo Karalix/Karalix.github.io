@@ -1,7 +1,6 @@
 ---
 title: "Conception logicielle 2018"
 layout: page
-hidden: true
 ---
 
 
