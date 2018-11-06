@@ -3,7 +3,7 @@ title: "Conception logicielle 2018"
 layout: page
 ---
 
-Cours co-animé avec [Valentin Lachand](https://valentin.lachand.net), basé sur le cours d'[Aurélien Tabard](https://tabard.fr).
+Cours co-encadré avec [Valentin Lachand](https://valentin.lachand.net), basé sur le cours d'[Aurélien Tabard](https://tabard.fr).
 
 ## Cours
 
