@@ -11,7 +11,7 @@ Cours co-encadré avec [Valentin Lachand](https://valentin.lachand.net), basé s
 * [Processus Unifié](https://docs.google.com/presentation/d/1GgBWk3VaYu_dMciIW1-sjdM5f664ZPhUJp7qi-TTMJw/export/pdf)
 * [Introduction à UML](https://docs.google.com/presentation/d/1j8s08sCK-dB-zXgtpRXP0lpTAq-72s7eCO6Kk25Q6LI/export/pdf)
 * [UML, Cas d’Utilisation](https://docs.google.com/presentation/d/19nSOHqYMpRx5PzdSEk60U7oVYX3Nikz8lHn4sKjVrEU/export/pdf)
-* UML, Diagrammes Statiques
+* [UML, Diagrammes Statiques](https://docs.google.com/presentation/d/1cXovZMw-qe42-9Rq7rsNabLVYk0m5I1G0JYWoWo7eQo/export/pdf)
 * UML, Diagrammes Dynamiques
 * Méthodes agiles
 
