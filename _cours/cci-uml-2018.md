@@ -17,7 +17,7 @@ Cours co-encadré avec [Valentin Lachand](https://valentin.lachand.net), basé s
 
 ## TPs
 
-* UML, Diagrammes Statiques
+* [UML, Diagrammes Statiques](/cours/cci-uml-2018-tp1)
 * UML, Diagrammes Dynamiques
 
 ## TDs
