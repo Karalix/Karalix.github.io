@@ -27,7 +27,7 @@ On utilisera [draw.io](https://draw.io) pour dessiner les diagrammes.
 
 ### Rendu
 
-Rappelez-vous que les TPs compterons pour 50% de la note.
+Rappelez-vous que les TPs compteront pour 50% de la note.
 
 Le TP peut se faire seul ou en binôme.
 
