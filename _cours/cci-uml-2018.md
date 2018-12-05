@@ -13,7 +13,7 @@ Cours co-encadré avec [Valentin Lachand](https://valentin.lachand.net), basé s
 * [UML, Cas d’Utilisation](https://docs.google.com/presentation/d/19nSOHqYMpRx5PzdSEk60U7oVYX3Nikz8lHn4sKjVrEU/export/pdf)
 * [UML, Diagrammes Statiques](https://docs.google.com/presentation/d/1cXovZMw-qe42-9Rq7rsNabLVYk0m5I1G0JYWoWo7eQo/export/pdf)
 * [UML, Diagrammes Dynamiques](https://docs.google.com/presentation/d/1omjaRZlJk687DxLfa51urUwrSZlArsIAAUABG6KPyMc/export/pdf)
-* Méthodes agiles
+* [Méthodes agiles](https://docs.google.com/presentation/d/1nyvNqvYNa6asNyb0YIOxpk167zJy-uaduPXHhv9Y2Tk/export/pdf)
 
 ## TPs
 
