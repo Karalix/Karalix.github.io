@@ -29,7 +29,7 @@ L’interface affiche l’écran de retrait. Il propose au client des montants p
 ### Billets
 La machine délivre les billets. Si le client ne les récupère pas au bout d’un certain délai T2, ils sont avalés. Le débit est alors annulé. Si le client les récupère, le débit du compte est confirmé et la carte est éjectée.
 
-# Rendu
+## Rendu
 Les TPs compterons pour 50% de la note.
 
 Le TP peut se faire seul ou en binôme.
