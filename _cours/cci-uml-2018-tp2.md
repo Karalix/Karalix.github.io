@@ -3,8 +3,6 @@ title: "Conception logicielle 2018 - TP 2"
 layout: page
 ---
 
-# TP 2 UML - Diagrammes dynamiques
-
 ## Séquences et états-transitions
 
 ### Diagramme de séquence - Guichet automatique de banque
