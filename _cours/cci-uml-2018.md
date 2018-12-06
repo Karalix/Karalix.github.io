@@ -27,6 +27,9 @@ Supports distribués en début de TD.
 * Cas d’Utilisation, [complément de correction du TD](/files/TD-CU.pdf)
 * Mise en pratique de SCRUM
 
+## Ressource utile
+[Fiche résumé de la notation UML](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf)
+
 ## Modalités d’évalution
 
 2 TP à rendre, 1 TP noté (à la discrétion de l’évaluateur)
