@@ -7,11 +7,11 @@ layout: page
 
 *September 2017 - now*
 
-[@LIRIS](http://liris.cnrs.fr)
+[@LIRIS](https://liris.cnrs.fr)
 
-Working on the [PLACED project](http://www.placedproject.eu) under the direction of [Aurélien Tabard](http://www.tabard.fr). My Ph.D. focuses on distributed public ambient displays, how to prototype them and their use in PLACED.
+Working on the [PLACED project](https://www.placedproject.eu) under the direction of [Aurélien Tabard](https://www.tabard.fr) and [Clemens Klokmose](https://www.klokmose.net). My Ph.D. focuses on distributed public ambient displays, how to prototype them and their use in PLACED.
 
-**Keywords :** *research*, *HCI*, *ubicomp*, *viz*
+**Keywords :** *research*, *HCI*, *creativity*, *pervasive display*
 
 ----
 
@@ -19,7 +19,7 @@ Working on the [PLACED project](http://www.placedproject.eu) under the direction
 
 *February 2017 - July 2017*
 
-[@biin](http://biin.fr)
+[@biinlab](http://get.biinlab.com)
 
 Design and development of a digital touch table interface encouraging discoverability and serendipity in public libraries. [Github repo](https://github.com/biinlab/bibliotouch).
 
