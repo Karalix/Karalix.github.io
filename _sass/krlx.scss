@@ -32,16 +32,17 @@ $on-laptop:        800px !default;
 //   }
 // }
 
-@include media-query($on-palm) {
-  body {
-    margin: 10px;
-    font-family: $base-font-family;
-  }
-}
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
+  }
+}
+
+@include media-query($on-palm) {
+  body {
+    margin: 10px;
+    font-family: $base-font-family;
   }
 }
 
