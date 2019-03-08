@@ -9,7 +9,7 @@ layout: page
 
 [@LIRIS](https://liris.cnrs.fr)
 
-Working on the [PLACED project](https://www.placedproject.eu) under the direction of [Aurélien Tabard](https://www.tabard.fr) and [Clemens Klokmose](https://www.klokmose.net). My Ph.D. focuses on distributed public ambient displays, how to prototype them and their use in PLACED.
+Working on the [PLACED project](https://www.placedproject.eu) under the supervision of [Aurélien Tabard](https://www.tabard.fr) and [Clemens Klokmose](https://www.klokmose.net). My Ph.D. focuses on distributed public ambient displays, how to prototype them and their use in PLACED.
 
 **Keywords :** *research*, *HCI*, *creativity*, *pervasive display*
 
