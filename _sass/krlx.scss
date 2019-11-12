@@ -33,22 +33,6 @@ $on-laptop:        800px !default;
 // }
 
 
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
-@include media-query($on-palm) {
-  body {
-    margin: 10px;
-    font-family: $base-font-family;
-  }
-}
-
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
 
 // Import partials.
 /*
@@ -128,4 +112,22 @@ footer{
 
 #icons8{
   color: #efc88b;
+}
+
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@include media-query($on-palm) {
+  body {
+    margin: 10px;
+    font-family: $base-font-family;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
 }
