@@ -24,6 +24,8 @@ It has been in use for 6 months in Denmark and Sweden. The deployment is current
 
 *April 2018 - February 2019*
 
+![Explore v1](/files/explore1.PNG)
+
 [Demo here](https://explore.placed.eu/#/5214)
 
 Result of the series of a 4 months participatory design process with librarians from the Public Library of Lyon. Explore is an interactive tool displaying curated content in relation to upcoming events. Developed as a Vue webapp, it was installed on 5 iPads in 2 libraries during several months.
@@ -53,8 +55,22 @@ Research prototype questionning what can be gained from using digital tools whil
 
 *February 2017 - July 2017 - now*
 
+![Bibliotouch](/files/agenda-bibliotouch.jpg)
+
 [Demo here](https://bibliotouch.enssib.fr)
 
 Interactive desk interface enabling exploration and search in digital collections of libraries. The design is focused in encouraging discoverability and serendipity in public libraries.
 
 **Keywords :** *zoomable interfaces*, *interactive surfaces*, *data visualization*, *NodeJS*, *VueJS*, *Open Source*
+
+----
+
+## Feu Analytics 🔥
+
+*January 2020*
+
+[Demo here](http://www.krlx.fr/feu-analytics/index.html)
+
+An analytics solution self-hosted on Firebase, that does not collect any personal information. Use it at your own risk.
+
+**Keywords :** *analytics*, *firebase*, *JS*, *Open Source*, *GDPR*, *privacy*
