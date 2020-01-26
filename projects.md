@@ -3,15 +3,32 @@ title: "Handpicked projects"
 layout: page
 ---
 
+## EXPLORE 2
+
+*March 2019 - now*
+
+![Explore v2](/files/explore.gif)
+
+[Demo here](https://aa.placed.eu/#/series)
+
+Evolution of the former version of Explore. This second version merges together curated content from librarians with posts from patrons during creative events. Building on the learnings of our previous deployment, it was designed in collaboration with researchers from Aarhus University. 
+
+It has been in use for 6 months in Denmark and Sweden. The deployment is currently ongoing in Lyon.
+
+
+**Keywords :** *research*, *HCI*, *VueJS*, *Firebase*, *public display*, *Public Domain*
+
+----
+
 ## EXPLORE
 
-*April 2018 - now*
+*April 2018 - February 2019*
 
 [Demo here](https://explore.placed.eu/#/5214)
 
-Second demonstrator for [PLACED project](http://www.placedproject.eu). Designed from co-design workshop gathering librarians from [BML](https://bm-lyon.fr), researchers from [ENSSIB](https://enssib.fr) and [LIRIS](https://liris.cnrs.fr).
+Result of the series of a 4 months participatory design process with librarians from the Public Library of Lyon. Explore is an interactive tool displaying curated content in relation to upcoming events. Developed as a Vue webapp, it was installed on 5 iPads in 2 libraries during several months.
 
-The app is displayed on iPads installed in the shelves of the library to communicate around activities taking place there.
+This is one of the demonstrators for [PLACED project](http://www.placedproject.eu) gathering librarians from [BML](https://bm-lyon.fr), researchers from [ENSSIB](https://enssib.fr) and [LIRIS](https://liris.cnrs.fr).
 
 
 **Keywords :** *research*, *HCI*, *VueJS*, *Firebase*, *public display*, *Public Domain*
@@ -21,6 +38,8 @@ The app is displayed on iPads installed in the shelves of the library to communi
 ## Ebauche
 
 *October 2017 - January 2019*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dHFB0OlbOo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Demo here](https://draw.ebauche.eu) and [here](https://display.ebauche.eu)
 
