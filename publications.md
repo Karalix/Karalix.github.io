@@ -3,7 +3,7 @@ title: "Publications"
 layout: page
 ---
 ## 2019
-*Alix Ducros, Clemens N. Klokmose, and Aurélien Tabard.* 2019. **Situated Sketching and Enactment for Pervasive Displays.** In Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces (ISS '19). ACM, New York, NY, USA, 217-228. DOI: [https://doi.org/10.1145/3343055.3359702 ](https://doi.org/10.1145/3343055.3359702). [HAL+PDF](https://hal.archives-ouvertes.fr/hal-02294757)
+*Alix Ducros, Clemens N. Klokmose, and Aurélien Tabard.* 2019. **Situated Sketching and Enactment for Pervasive Displays.** In Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces (ISS '19). ACM, New York, NY, USA, 217-228. DOI: [https://doi.org/10.1145/3343055.3359702 ](https://doi.org/10.1145/3343055.3359702). [HAL+PDF](https://hal.archives-ouvertes.fr/hal-02294757) [Presentation at ISS '19](https://youtu.be/ikUtbM-Moog)
 
 
 ## 2018
