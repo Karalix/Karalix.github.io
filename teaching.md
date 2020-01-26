@@ -3,6 +3,14 @@ title: "Cours"
 layout: page
 ---
 
+## 2019-20
+### Technologies Web synchrones et multi-dispositifs
+
+*20h*
+
+Cours sous la direction de [Aurélien Tabard](https://tabard.fr).
+Préparation et encadrement des TP de [l'UE TIW8](https://aurelient.github.io/tiw8/2019/#tp) du [Master 2 Informatique de Lyon 1](http://master-info.univ-lyon1.fr/TIW/).
+
 ## 2018-19
 ### [Conception des Systèmes d'information](/cours/cci-uml-2018)
 
