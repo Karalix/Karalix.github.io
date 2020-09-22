@@ -19,7 +19,7 @@ Working on the [PLACED project](https://www.placedproject.eu) under the supervis
 
 *February 2017 - July 2017*
 
-[@biinlab](http://get.biinlab.com)
+[@yunow](https://yunow.io/)
 
 Design and development of a digital touch table interface encouraging discoverability and serendipity in public libraries. [Github repo](https://github.com/biinlab/bibliotouch).
 
@@ -63,7 +63,7 @@ Development of new specifications, automated tests and user support on a busines
 
 *September 2014 - August 2015*
 
-[@UdA](http://u-clermont1.fr/)
+[@UdA](https://www.uca.fr/)
 
 Development of native mobile applications targeting iOs, Android, WP, Sailfish
 
@@ -87,7 +87,7 @@ Development of a C++ application retrieving measures from several radars, then d
 
 *September 2012 - July 2014*
 
-[@UdA](http://u-clermont1.fr/)
+[@UdA](https://www.uca.fr/)
 
 Development of realtime C++ applications, Linux systems administration
 
