@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{% for note in site.notes %}
+<a href="{{note.url}}"><h2>{{note.title}}</h2></a>
+<p>{{note.content | truncatewords: 20}} <a href="{{note.url}}">read more</a></p>
+{% endfor %}

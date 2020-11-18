@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article>
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+    <p><em>{{ page.date | date: "%d/%m/%Y"}}</em></p>
+  </header>
+
+  <div class="article-page">
+    {{ content }}
+  </div>
+
+</article>

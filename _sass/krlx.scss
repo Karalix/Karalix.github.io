@@ -52,6 +52,17 @@ img{
   max-width: 100%;
 }
 
+.article-page {
+  img {
+    -webkit-box-shadow: 0px 10px 36px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 10px 36px 0px rgba(0,0,0,0.4);
+    box-shadow: 0px 10px 36px 0px rgba(0,0,0,0.4);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+}
+
 a{
   color: #050517;
 }
