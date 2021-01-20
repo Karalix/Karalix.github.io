@@ -1,0 +1,49 @@
+---
+title: "Les Baos de Han Jun"
+layout: article
+date: "20/01/2021"
+---
+
+Recette dans l'esprit de la cuisine taiwanaise provenant de ma petite maman. Pour une trentaine de pièces à peu près (c'est beaucoup).
+
+## Pâte à Bao
+
+* 1 Kg de farine
+* 600 ml d'eau
+* 70 g de sucre
+* 2 sachets de levure boulangère
+
+Tout mélanger, pétrir et laisser monter pendant _au moins_ 1 heure couvert d'un torchon humide. (le robot multifonction est parfait)
+
+
+## Farce
+
+* 1 carotte
+* 1/2 oignon
+* 1 oignon vert
+* 4 tranches de gingembre frais
+* 1 gousse d'ail
+* du persil
+* 1 oeuf
+* 4 cuillères à soupe de sauce soja
+* 4 cuillère à soupe d'huilde de sésame
+* 12 cl d'alcool
+* 300 g de viande de porc hachée (ou autre viande/légume pour les végé, mais le meilleur c'est vraiment le porc déso)
+
+Tout ciseler, puis mélanger avec la viande hachée. (le robot multifonction est parfait pour ça aussi)
+
+## Sauce (1 pers.)
+
+* 3 cuillères à café de sauce soja
+* 1 cuillère a café d'huilde de sésame
+* quelques gouttes de vianigre de riz
+
+## Montage
+
+Faire des portions de pâte de la taille d'une grosse noix, étaler grossièrement en un petit disque.
+Dans chaque disque de pâte, insérer un grosse cuillère à café de farce, puis refermer en faisant tourner sur lui même le bao ainsi formé.
+Disposer sur un petit carré de papier cuisson pour éviter que le Bao ne colle lors de la cuisson.
+
+Cuire à la vapeur 20 minutes.
+
+Les Baos se congèlent très bien une fois cuits.
