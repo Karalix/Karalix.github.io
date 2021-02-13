@@ -1,5 +1,5 @@
 ---
-title: "Les Baos de Han Jun"
+title: "Les Baos (et raviolis) de Han Jun"
 layout: article
 date: "20/01/2021"
 ---
@@ -44,6 +44,14 @@ Faire des portions de pâte de la taille d'une grosse noix, étaler grossièreme
 Dans chaque disque de pâte, insérer un grosse cuillère à café de farce, puis refermer en faisant tourner sur lui même le bao ainsi formé.
 Disposer sur un petit carré de papier cuisson pour éviter que le Bao ne colle lors de la cuisson.
 
-Cuire à la vapeur 20 minutes.
+Cuire à la vapeur 20 minutes. (On peut les cuire à la poêle aussi, avec un peu d'huile et en les écrasant un peu avec une autre poêle dessus)
 
 Les Baos se congèlent très bien une fois cuits.
+
+## Raviolis
+
+Pour faire des raviolis, la farce est la même. Pour la pâte, il suffit juste d'enlever le sucre et la levure.
+
+Le montage est similaire, mais le disque de pâte doit être plus fin et on le referme en le pliant en 2.
+
+Les raviolis ainsi formés peuvent se cuire en 10 minutes dans de l'eau bouillante ou à la poêle (mais ça prend plus de temps).
