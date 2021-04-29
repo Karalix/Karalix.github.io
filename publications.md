@@ -8,7 +8,9 @@ layout: page
 *Daisy Yoo, Aurélien Tabard, Alix Ducros, Peter Dalsgaard, Clemens Nylandsted Klokmose, Eva Eriksson, and Sofia Serholt.* 2020. **Computational Alternatives Vignettes for Place- and Activity-Centered Digital Services in Public Libraries.** In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. DOI:[https://doi.org/10.1145/3313831.3376597](https://doi.org/10.1145/3313831.3376597) [HAL+PDF](https://hal.archives-ouvertes.fr/hal-03178550)
 
 ## 2019
-*Alix Ducros, Clemens N. Klokmose, and Aurélien Tabard.* 2019. **Situated Sketching and Enactment for Pervasive Displays.** In Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces (ISS '19). ACM, New York, NY, USA, 217-228. DOI: [https://doi.org/10.1145/3343055.3359702 ](https://doi.org/10.1145/3343055.3359702). [HAL+PDF](https://hal.archives-ouvertes.fr/hal-02294757) [Presentation at ISS '19](https://youtu.be/ikUtbM-Moog)
+*Alix Ducros, Clemens N. Klokmose, and Aurélien Tabard.* 2019. **Situated Sketching and Enactment for Pervasive Displays.** In Proceedings of the 2019 ACM International Conference on Interactive Surfaces and Spaces (ISS '19). ACM, New York, NY, USA, 217-228. DOI: [https://doi.org/10.1145/3343055.3359702 ](https://doi.org/10.1145/3343055.3359702). [HAL+PDF](https://hal.archives-ouvertes.fr/hal-02294757) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ikUtbM-Moog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 2018
