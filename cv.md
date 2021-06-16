@@ -3,9 +3,21 @@ title: "Curriculum Vitae"
 layout: page
 ---
 
+## R&D Engineer & Business Developer
+
+*June 2021 - December 2021*
+
+[@Pulsalys](https://pulsalys.fr)
+
+Working with [Aurélien Tabard](https://www.tabard.fr) and [Raphaëlle Bats](https://twitter.com/knitandb) to transform our prototype Explore developed during the [PLACED project](https://www.placedproject.eu) into a stable software. In parallel, I am studying how to commercialize it though the creation of a startup or any other transfer solution.
+
+**Keywords :** *startup*, *research*, *UX*, *VueJS*, *public display*
+
+----
+
 ## Ph.D. in Human-Computer Interaction
 
-*September 2017 - now*
+*September 2017 - September 2021*
 
 [@LIRIS](https://liris.cnrs.fr)
 
