@@ -2,7 +2,9 @@
 layout: home
 ---
 
-I am a Ph.D. student in Lyon at [LIRIS](http://liris.cnrs.fr/) in the [SICAL](http://liris.cnrs.fr/equipes?id=73) team. I am currently working on the [PLACED project](http://www.placedproject.eu) under the supervision of [Aurélien Tabard](http://www.tabard.fr) and [Clemens Klokmose](https://www.klokmose.net). My Ph.D. focuses on designing Place-Centric Digital Services, and more specifically in libraries.
+I am currently working on transforming the prototypes made during my PhD thesis into a product, reach out at [kronikle.eu](https://kronikle.eu)
+
+I was a Ph.D. student in Lyon at [LIRIS](http://liris.cnrs.fr/) in the [SICAL](http://liris.cnrs.fr/equipes?id=73) team. I was working on the [PLACED project](http://www.placedproject.eu) under the supervision of [Aurélien Tabard](http://www.tabard.fr) and [Clemens Klokmose](https://www.klokmose.net). My Ph.D. focused on designing Place-Centric Digital Services, and more specifically interactive public displays in libraries.
 
 My previous experiences involved UX design and JavaScript full-stack development on the project [Bibliotouch](https://bibliotouch.enssib.fr) (joint project between [Yunow](https://yunow.io//) and [ENSSIB](https://www.enssib.fr)).
 
