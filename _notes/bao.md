@@ -4,16 +4,16 @@ layout: article
 date: "20/01/2021"
 ---
 
-Recette dans l'esprit de la cuisine taiwanaise provenant de ma petite maman. Pour une trentaine de pièces à peu près (c'est beaucoup).
+Recette dans l'esprit de la cuisine taiwanaise provenant de ma petite maman. Pour une quinzaine de pièces à peu près (c'est déjà pas mal).
 
 ## Pâte à Bao
 
-* 1 Kg de farine
-* 600 ml d'eau
-* 70 g de sucre
-* 2 sachets de levure boulangère
+* 500g de farine
+* 300 ml d'eau
+* 35 g de sucre
+* 1 sachet de levure boulangère
 
-Tout mélanger, pétrir et laisser monter pendant _au moins_ 1 heure couvert d'un torchon humide. (le robot multifonction est parfait)
+Tout mélanger, pétrir et laisser monter pendant _au moins_ 1 heure couvert d'un torchon humide quelque part où il fait chaud. (le robot multifonction est parfait)
 
 
 ## Farce
@@ -25,10 +25,10 @@ Tout mélanger, pétrir et laisser monter pendant _au moins_ 1 heure couvert d'u
 * 1 gousse d'ail
 * du persil
 * 1 oeuf
-* 4 cuillères à soupe de sauce soja
-* 4 cuillère à soupe d'huilde de sésame
-* 12 cl d'alcool
-* 300 g de viande de porc hachée (ou autre viande/légume pour les végé, mais le meilleur c'est vraiment le porc déso)
+* 3 cuillères à soupe de sauce soja
+* 3 cuillère à soupe d'huilde de sésame
+* 12 cl de vin blanc
+* 150 g de viande de porc hachée (ou autre viande/légume pour les végé, mais le meilleur c'est vraiment le porc déso)
 
 Tout ciseler, puis mélanger avec la viande hachée. (le robot multifonction est parfait pour ça aussi)
 
