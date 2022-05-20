@@ -5,6 +5,6 @@ layout: default
 {% assign sorted-posts = site.notes | sort: 'date' | reverse %}
 {% for note in sorted-posts %}
 <a href="{{note.url}}"><h2>{{note.title}}</h2></a>
-<p>{{note.date | date: "%Y/%m/%d"}}</p>
+<div>{{note.date | date: "%Y/%m/%d"}}</div>
 <p>{{note.content | truncatewords: 20}} <a href="{{note.url}}">read more</a></p>
 {% endfor %}
