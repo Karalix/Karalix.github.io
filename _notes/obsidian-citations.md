@@ -27,14 +27,15 @@ Pour mettre en oeuvre ce système, il faut modifier le template des notes de lec
 ## Bloc de citation
 Solution la plus simple pour obtenir un bloc de citation qui ressort dans le texte, auquel il est possible d'ajouter un extrait par exemple.
 
+{% raw %}
 ```md
-
 > *"...REMPLACER CE TEXTE PAR UN EXTRAIT..."*
 > 
 > **{{title}}**
 > {{authorString}}
 > {{year}}, {{publisher}}, *{{page}}*
 ```
+{% endraw %}
 
 Cette solution a l'avantage de permettre dans une certaine mesure de toujours profiter de la rédaction de notes de lecture dans une certaine mesure même si on perd le formattage FrontMatter originel.
 
@@ -50,6 +51,7 @@ sur plusieurs lignes.
 
 Profitant du fait qu'il n'est pas obligatoire d'utiliser des chiffres pour les références des notes de bas de page, il est possible d'avoir le template suivant :
 
+{% raw %}
 ```md
 [^{{citekey}}]
 
@@ -57,5 +59,6 @@ Profitant du fait qu'il n'est pas obligatoire d'utiliser des chiffres pour les r
 {{authorString}}
 {{year}}, {{publisher}}, *{{page}}*`
 ```
+{% endraw %}
 
 Seulement, d'implémenter ce template rend la création de note de lectures bien moins élégante.
