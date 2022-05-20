@@ -4,7 +4,6 @@ layout: article
 date: "20/05/2022"
 ---
 
-# Citation dans le texte avec Obsidian
 Si vous utilisez [Obsidian](https://obsidian.md) pour rédiger des notes de lectures académiques, voire ébauches d'articles, la gestion des citations dans votre texte vous a probablement déjà posé question.
 Et comme l'écosystème de plugin tiers est très bien fourni vous avez déjà sans doute installé le très bon [Obsidian Citation Plugin](https://github.com/hans/obsidian-citation-plugin).
 
