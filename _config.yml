@@ -16,7 +16,7 @@
 title: Alix Ducros
 email: alix@krlx.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in Lyon, working on the PLACED project. Place-Centric Design. JS dev.
+  PhD in Human-Computer Interaction. Place-Centric Design. JS dev.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://krlx.fr" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Karalix
