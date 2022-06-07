@@ -55,9 +55,10 @@ Research prototype questionning what can be gained from using digital tools whil
 
 *February 2017 - July 2017 - now*
 
-![Bibliotouch](/files/agenda-bibliotouch.jpg)
+<!-- ![Bibliotouch](/files/agenda-bibliotouch.jpg)-->
+![Demo Bibliotouch](https://user-images.githubusercontent.com/5560197/172401198-6a126d29-06da-4e10-91fc-d64724a18484.gif)
 
-[Demo here](https://bibliotouch.enssib.fr)
+[~Demo here~ (unfortunately not hosted anymore)](https://bibliotouch.enssib.fr)
 
 Interactive desk interface enabling exploration and search in digital collections of libraries. The design is focused in encouraging discoverability and serendipity in public libraries.
 
