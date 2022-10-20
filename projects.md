@@ -3,9 +3,29 @@ title: "Handpicked projects"
 layout: page
 ---
 
+## Medical Score Calculator
+
+*March 2020*
+
+![Fournier's Severity Index Calculator](/files/fournier.png)
+
+[Demo here](https://loving-ride-53e79f.netlify.app/#/)
+
+In 2020, a friend of mine was doing his doctoral thesis on this illness and was tasked to calculate a lot of Severity Indexes for a dataset of past patients from the hospital. A Severity Index is a score calculated from the patient's vitals that acts as an indicator for the seriouness of the illness. In the case of Fournier's Gangrene, a high score (>9) often means death.
+
+From this time consuming and repetitive task, we thought that it would be helpful to have a calculator app to compute the Severity Index of Fournier's Gangrene. None of the current medical calculator apps available on the stores did provide anything for this disease.Our goals with this app were:
+- Visualize and complete easily the parameters needed for the calculation
+- Visualize the incidence of each parameters on the severity index
+- Have a minimal number of interaction
+- Create a PWA that could be installed on the home screen of iPhone and Android
+
+
+**Keywords :** *VueJS*, *PWA*, *fournier gangrene*, *medical score*, *Public Domain*
+
+
 ## EXPLORE 2
 
-*March 2019 - now*
+*March 2019 - July 2021*
 
 ![Explore v2](/files/explore.gif)
 
