@@ -3,6 +3,20 @@ title: "Handpicked projects"
 layout: page
 ---
 
+## Hormur
+
+*January 2022 - now*
+
+![Hormur PWA screenshots](/files/hormur.png)
+
+[The website here](https://hormur.com/)
+
+Since 2022 I am the main frontend developer for the startup [Hormur](https://hormur.com) whose goal is to democratize all kinds of arts in places not dedicated for it. The webapp acts as an intermediation platform to empower artists and hosts to discover each other. The service notably allows the organization of events with a ticketing system and redistribution of benefits. Public release in summer 2023 !
+
+**Keywords :** *VueJS*, *Nuxt*, *PWA*, *arts and culture*
+
+----
+
 ## Medical Score Calculator
 
 *March 2020*
@@ -22,6 +36,7 @@ From this time consuming and repetitive task, we thought that it would be helpfu
 
 **Keywords :** *VueJS*, *PWA*, *fournier gangrene*, *medical score*, *Public Domain*
 
+----
 
 ## EXPLORE 2
 
