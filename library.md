@@ -1,4 +1,3 @@
-# Ma bibliothèque
 
 Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 
