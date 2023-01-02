@@ -12,3 +12,13 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 ## Epub
 
 [Dossier Proton](https://drive.proton.me/urls/HVD02GVTVR#RN1gy6yDMbaQ)
+
+- Cycle d'Ender
+- L'Assassin Royal & suites
+- Gagner la guerre & Janua Vera
+- Harry Potter et les Méthodes de la Rationalité
+- Vita Nostra
+- Warhammer 40k
+  - Fantômes de Gaunt
+  - Trilogie Eisenhorn
+- etc.
