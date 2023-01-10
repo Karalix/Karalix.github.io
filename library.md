@@ -1,5 +1,5 @@
 ---
-title: "Ma bibliothèque"
+title: "Bibliothèque partagée"
 layout: page
 ---
 
@@ -22,3 +22,32 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
   - Fantômes de Gaunt
   - Trilogie Eisenhorn
 - etc.
+
+## Pile de lecture
+2021 et 2022 a été marqué par le renouveau du plaisir de lecture (ou plutôt des lectures de plaisir). Cette liste me permet de suivre mon avancée. Tout ce qui est ci-dessous est probablement disponible au prêt ou autre partage 🏴 ci-dessus.
+
+État | Titre
+---|---
+📗 | Harry Potter et les Méthodes de la Rationalité
+📗 | Janua Vera
+📗 | Gagner la Guerre
+📗 | Ender 1
+📗 | Le Nom du Vent 1 & 2
+📗 | Dune 1
+📗 | Assassin Royal Cycle 1
+📗 | La Cité du Sud 1
+📗 | Ceux qui restent
+📗 | Le livre des Martyrs
+📗 | Ephraël Stern
+📖 | Les raisins de la colère
+📖 | Salambô
+📖 | Out There
+📕 | L'enfant bleu
+📕 | Ciaphas Cain
+📕 | Les Aventures d'Arthur Gordon Pym de Nantucket
+📕 | Les Montagnes Hallucinées
+📕 | La forteresse du Chaudron Noir
+📕 | L'idiot
+📕 | Eisenhorn
+
+
