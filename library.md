@@ -39,11 +39,12 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Ceux qui restent
 📗 | Le livre des Martyrs
 📗 | Ephraël Stern
+📗 | Constantin de Chamberly
 📖 | Les raisins de la colère
 📖 | Salambô
 📖 | Out There
 📕 | L'enfant bleu
-📕 | Ciaphas Cain
+📖 | Ciaphas Cain
 📕 | Les Aventures d'Arthur Gordon Pym de Nantucket
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
