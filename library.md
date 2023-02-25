@@ -42,9 +42,13 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Constantin de Chamberly
 📗 | Out There
 📗 | Salambô
+📗 | Ciaphas Cain 1
+📗 | Ciaphas Cain 2
+📗 | Les lames du cardinal 1
 📖 | Les raisins de la colère
-📖 | Ciaphas Cain 1, 2 & 3
-📖 | Les lames du cardinal
+📖 | Ciaphas Cain 3
+📖 | Les lames du cardinal 2
+📕 | Les lames du cardinal 3
 📕 | L'enfant bleu
 📕 | Les Aventures d'Arthur Gordon Pym de Nantucket
 📕 | Les Montagnes Hallucinées
