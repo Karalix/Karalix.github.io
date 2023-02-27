@@ -42,8 +42,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Constantin de Chamberly
 📗 | Out There
 📗 | Salambô
-📗 | Ciaphas Cain 1
-📗 | Ciaphas Cain 2
+📗 | Ciaphas Cain 1 & 2
 📗 | Les lames du cardinal 1
 📖 | Les raisins de la colère
 📖 | Ciaphas Cain 3
