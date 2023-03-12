@@ -21,6 +21,9 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 - Warhammer 40k
   - Fantômes de Gaunt
   - Trilogie Eisenhorn
+- Avers
+- Les lames du cardinal
+- Haut Royaume
 - etc.
 
 ## Pile de lecture
@@ -42,10 +45,12 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Constantin de Chamberly
 📗 | Out There
 📗 | Salambô
-📗 | Ciaphas Cain 1 & 2
+📗 | Ciaphas Cain 1, 2 & 3
+📗 | Eisenhorn Xenos
+📗 | Eisenhorn Malleus
 📗 | Les lames du cardinal 1
 📖 | Les raisins de la colère
-📖 | Ciaphas Cain 3
+📖 | Eisenhorn Hereticus
 📖 | Les lames du cardinal 2
 📕 | Les lames du cardinal 3
 📕 | L'enfant bleu
@@ -53,7 +58,6 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
 📕 | L'idiot
-📕 | Eisenhorn
 📕 | Avers
 📕 | Haut Royaume
 
