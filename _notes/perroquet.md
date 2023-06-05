@@ -4,9 +4,8 @@ layout: article
 date: "05/06/2023"
 ---
 
-![ile_perroquet](https://github.com/Karalix/Karalix.github.io/assets/5560197/477b78d1-624b-49c9-a3f5-72b93c982d66)
-
 L'Île du Perroquet est un jeu de de rôle d'aventure *one-shot* faisant usage de boissons alcoolisées dans lequel les joueuses et les joueurs incarnent un équipage pirate.
+
 Je l'ai testé avec 12 joueurs (dont 6 novices) qui étaient en binomes lors d'une soirée d'EVG, mais sinon je pense qu'il est adapté pour 3 à 6 joueurs.
 
 Le jeu a été rédigé de manière à ce qu'il soit accessible le plus possible pour une meneuse novice ou en état d'ébriété légère : il se narre à la manière d'un livre dont vous êtes le héros.
@@ -18,6 +17,8 @@ Dans la plupart des cas, chaque scène se gère de la manière suivante :
 Les joueurs commencent sur l'Île du Perroquet qui sert de base et de tutoriel pour expérimenter le système de jeu, de décision et de combat.
 Une fois que les joueurs ont réussi sur cette île à armer leur navire, la meneuse peut leur donner la carte et ils peuvent choisir vers quelle île voguer.
 2 Interludes sont proposés en bas de page afin de pimenter un trajet ou une escale à l'île du Perroquet.
+
+![ile_perroquet](https://github.com/Karalix/Karalix.github.io/assets/5560197/477b78d1-624b-49c9-a3f5-72b93c982d66)
 
 Ce jeu d'aventure est avant tout un bon prétexte pour boire du rhum et passer une bonne soirée. La meneuse ne doit pas hésiter à augmenter la difficulté des défis pour encourager la consommation d'alcool ou inversement. De la même manière, le combat final du jeu peut être déclenché même si toutes les îles n'ont pas été explorées en fonction de l'énergie autour de la table.
 
