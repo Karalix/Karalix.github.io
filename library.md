@@ -51,13 +51,17 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Eisenhorn Hereticus
 📗 | Eisenhorn Magos
 📗 | Les Prêtres de Mars
+📗 | Les Seigneurs de Mars
 📗 | Les lames du cardinal 1
+📗 | L'enfant bleu
 📖 | Les lames du cardinal 2
-📖 | Les Seigneurs de Mars
-📖 | L'enfant bleu
+📖 | Les Dieux de Mars
+📖 | La fille de la Supérette
+📕 | SpyxFamily
+📕 | Alix Sénateur
 📕 | Les 4 enquêtrices de la supérette Gwangseon
 📕 | Les lames du cardinal 3
-📕 | Les Aventures d'Arthur Gordon Pym de Nantucket
+📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
 📕 | L'idiot
