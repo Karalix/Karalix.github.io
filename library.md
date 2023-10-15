@@ -54,12 +54,12 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Les Seigneurs de Mars
 📗 | Les lames du cardinal 1
 📗 | L'enfant bleu
+📗 | La fille de la Supérette
+📗 | Les 4 enquêtrices de la supérette Gwangseon
 📖 | Les lames du cardinal 2
 📖 | Les Dieux de Mars
-📖 | La fille de la Supérette
 📕 | SpyxFamily
 📕 | Alix Sénateur
-📕 | Les 4 enquêtrices de la supérette Gwangseon
 📕 | Les lames du cardinal 3
 📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
