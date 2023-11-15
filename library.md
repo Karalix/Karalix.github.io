@@ -48,13 +48,22 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Ciaphas Cain 1, 2 & 3
 📗 | Eisenhorn Xenos
 📗 | Eisenhorn Malleus
+📗 | Eisenhorn Hereticus
+📗 | Eisenhorn Magos
+📗 | Les Prêtres de Mars
+📗 | Les Seigneurs de Mars
+📗 | Les Dieux de Mars
 📗 | Les lames du cardinal 1
-📖 | Les raisins de la colère
-📖 | Eisenhorn Hereticus
+📗 | L'enfant bleu
+📗 | La fille de la Supérette
+📗 | Les 4 enquêtrices de la supérette Gwangseon
+📗 | Marque de Foi
+📗 | Le lecteur de cadavres
 📖 | Les lames du cardinal 2
+📕 | SpyxFamily
+📕 | Alix Sénateur
 📕 | Les lames du cardinal 3
-📕 | L'enfant bleu
-📕 | Les Aventures d'Arthur Gordon Pym de Nantucket
+📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
 📕 | L'idiot
