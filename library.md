@@ -52,12 +52,14 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Eisenhorn Magos
 📗 | Les Prêtres de Mars
 📗 | Les Seigneurs de Mars
+📗 | Les Dieux de Mars
 📗 | Les lames du cardinal 1
 📗 | L'enfant bleu
 📗 | La fille de la Supérette
 📗 | Les 4 enquêtrices de la supérette Gwangseon
+📗 | Marque de Foi
+📗 | Le lecteur de cadavres
 📖 | Les lames du cardinal 2
-📖 | Les Dieux de Mars
 📕 | SpyxFamily
 📕 | Alix Sénateur
 📕 | Les lames du cardinal 3
