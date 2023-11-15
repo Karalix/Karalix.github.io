@@ -16,6 +16,7 @@ GEM
     commander (4.1.6)
       highline (~> 1.6.11)
     concurrent-ruby (1.2.2)
+    commonmarker (0.23.7)
     fast-stemmer (1.0.2)
     ffi (1.13.1)
     github-pages (15)
