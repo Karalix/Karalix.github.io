@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign sorted-posts = site.notes | sort: 'date' | reverse | where: "draft" %}
+{% assign sorted-posts = site.notes | sort: 'date' | reverse %}
 {% for note in sorted-posts %}
 <a href="{{note.url}}"><h2 style="margin-bottom: 4px;">{{note.title}}</h2></a>
 <div>{{note.date | date: "%Y/%m/%d"}}</div>
