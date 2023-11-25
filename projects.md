@@ -5,7 +5,7 @@ layout: page
 
 ## Hormur
 
-*January 2022 - now*
+*January 2022 - ongoing*
 
 ![Hormur PWA screenshots](/files/hormur.png)
 
@@ -14,6 +14,26 @@ layout: page
 Since 2022 I am the main frontend developer for the startup [Hormur](https://hormur.com) whose goal is to democratize all kinds of arts in places not dedicated for it. The webapp acts as an intermediation platform to empower artists and hosts to discover each other. The service notably allows the organization of events with a ticketing system and redistribution of benefits. Public release in summer 2023 !
 
 **Keywords :** *VueJS*, *Nuxt*, *PWA*, *arts and culture*
+
+----
+
+## Habilitrak
+
+*October 2023*
+
+![Fournier's Severity Index Calculator](/files/deviceframes-habilitrak.png)
+
+[Demo here](https://habilitrak.krlx.fr/)
+
+A web app to help track habilitations of employees. Including :
+- a dashboard
+- custom reminder notification periods
+- habilitation passport pdf generation
+
+Initially a missed opportunity for a freelance mission, I found the idea interesting to implement and play with new tools. LEveraging the permission free tier offered by [Appwrite](https://appwrite.io), most of the app is free to use, only some features need a payment (to me).
+
+**Keywords :** *Nuxt 3*, *Typescript*, *PWA*, *habilitation*, *Appwrite*, *SaaS*
+
 
 ----
 
