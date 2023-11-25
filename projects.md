@@ -1,5 +1,5 @@
 ---
-title: "Handpicked projects"
+title: "Projects"
 layout: page
 ---
 
@@ -30,7 +30,7 @@ A web app to help track habilitations of employees. Including :
 - custom reminder notification periods
 - habilitation passport pdf generation
 
-Initially a missed opportunity for a freelance mission, I found the idea interesting to implement and play with new tools. LEveraging the permission free tier offered by [Appwrite](https://appwrite.io), most of the app is free to use, only some features need a payment (to me).
+Initially a missed opportunity for a freelance mission, I found the idea interesting to implement anyway and play with new tools. Leveraging the permissive free tier offered by [Appwrite](https://appwrite.io), most of the app is free to use, only some features need a payment ([send me an email](mailto:alix@krlx.fr)).
 
 **Keywords :** *Nuxt 3*, *Typescript*, *PWA*, *habilitation*, *Appwrite*, *SaaS*
 
