@@ -4,6 +4,8 @@ layout: article
 date: "27/11/2023"
 ---
 
+Bienvenue sur la page du Segmentum Bagarrus, un secteur de la galaxie ravagé par la guerre éternelle du 41ème millénaire.
+
 ## Liens indispensables
 - Les [règles abbrégées](/files/kt-lite.pdf) en français
 - Les règles complètes en anglais : [Wahapedia](https://wahapedia.ru/)
