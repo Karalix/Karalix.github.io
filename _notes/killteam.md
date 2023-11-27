@@ -4,12 +4,12 @@ layout: article
 date: "27/11/2023"
 ---
 
-Bienvenue sur la page du Segmentum Bagarrus, un secteur de la galaxie ravagé par la guerre éternelle du 41ème millénaire.
+Bienvenue sur la page du Segmentum Bagarrus, un secteur de la galaxie ravagé par la guerre éternelle du 41ème millénaire, peuplé de généraux ravagés eux aussi.
 
 ## Liens indispensables
-- Les [règles abbrégées](/files/kt-lite.pdf) en français
-- Les règles complètes en anglais : [Wahapedia](https://wahapedia.ru/)
-- Le [plannificateur d'équipe](https://www.killteambuilder.com/fr) et les [règles d'équipes](https://www.killteambuilder.com/fr/killteam/view) en français
+- Les [règles abbrégées](/files/kt-lite.pdf) de KillTeam en français
+- Les règles complètes de 40k et KillTeam en anglais : [Wahapedia](https://wahapedia.ru/)
+- Le [plannificateur d'équipe](https://www.killteambuilder.com/fr) et les [règles d'équipes](https://www.killteambuilder.com/fr/killteam/view) de KillTeam en français
 
 ## Évènements
 ### Tournoi de Noël (27/12/2023)
