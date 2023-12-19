@@ -147,8 +147,12 @@ footer{
 
 .hero-header {
   position: absolute;
-  bottom: 8px;
-  background-color: #050517;
+  bottom: 16px;
+  left: 16px;
+  border-radius: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: rgba(0,0,0,0.4);
   color: #FFFFFF;
 }
 

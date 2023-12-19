@@ -10,9 +10,10 @@ layout: default
     <header>
     {% endif %}
       <h1>{{ page.title | escape }}</h1>
-      <p><em>{{ page.date | date: "%d/%m/%Y"}}</em></p>
     </header>
   </div>
+
+  <p><em>{{ page.date | date: "%d/%m/%Y"}}</em></p>
 
   <div class="article-page">
     {{ content }}
