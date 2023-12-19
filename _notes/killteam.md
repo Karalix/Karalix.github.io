@@ -21,7 +21,7 @@ Rendez-vous à 8h45 chez les Ducros à Beaumont pour la mise en place. Fin estim
 | Créneau            | Table 1        | Table 2          | Table 3         |
 |--------------------|----------------|------------------|-----------------|
 |   **Matin**        |   Jean & Alix  |   JF & Marc      |   Eugène & Jojo |
-|   **Après-midi 1** |   Marc & Jean  |   Eugène & JF    |   Alix & Jojo   |
+|   **Après-midi 1** |   Marc & Jean  |   Eugène & JF    |   Alix, Clément & Jojo   |
 |   **Après-midi 2** |   Alix & JF    |   Eugène & Jean  |   Marc & Jojo   |
 
 Les matchs de l'après midi 2 seront possiblement remplacé par une grande partie narrative
