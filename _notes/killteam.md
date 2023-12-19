@@ -18,7 +18,7 @@ Bienvenue sur la page du Segmentum Bagarrus, un secteur de la galaxie ravagé pa
 
 Rendez-vous à 8h45 chez les Ducros à Beaumont pour la mise en place. Fin estimée à 19h
 
-| Créneau            | Match 1        | Match 2          | Match 3         |
+| Créneau            | Table 1        | Table 2          | Table 3         |
 |--------------------|----------------|------------------|-----------------|
 |   **Matin**        |   Jean & Alix  |   JF & Marc      |   Eugène & Jojo |
 |   **Après-midi 1** |   Marc & Jean  |   Eugène & JF    |   Alix & Jojo   |
