@@ -2,14 +2,17 @@
 layout: default
 ---
 <article>
-  <%if page.hero %> 
-  <header class="hero" style="background-image: url({{page.hero}});">
-  <% else %>
-  <header>
-  <% endif %>
-    <h1>{{ page.title | escape }}</h1>
-    <p><em>{{ page.date | date: "%d/%m/%Y"}}</em></p>
-  </header>
+  <div style="position: relative;">
+    <%if page.hero %>
+    <img class="hero" src="{{page.hero}}"/>
+    <header class="hero-header">
+    <% else %>
+    <header>
+    <% endif %>
+      <h1>{{ page.title | escape }}</h1>
+      <p><em>{{ page.date | date: "%d/%m/%Y"}}</em></p>
+    </header>
+  </div>
 
   <div class="article-page">
     {{ content }}
