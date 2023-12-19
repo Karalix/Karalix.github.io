@@ -12,22 +12,22 @@
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta property="og:locale" content="en_US">
   <meta property="article:author" content="Alix ducros">
-  <%if page.hero%>
+  {% if page.hero %}
   <meta property="og:image" content="{{ page.hero}}">
-  <%else%>
+  {% else %}
   <meta property="og:image" content="/icons/k-point.png">
-  <%endif%>
+  {% endif %}
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:creator" content="@krlx_dev">
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
   <meta name="twitter:title" content="{{page.title}}">
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <%if page.hero%>
+  {% if page.hero %}
   <meta name="twitter:image" content="{{ page.hero}}">
-  <%else%>
+  {% else %}
   <meta name="twitter:image" content="/icons/k-point.png">
-  <%endif%>
+  {% endif %}
 
   <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
