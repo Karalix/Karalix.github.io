@@ -32,6 +32,7 @@ Les matchs de l'après midi 2 seront possiblement remplacé par une grande parti
 - JF : Sapeurs Death Korp, Kasrkins Death Korp, Death Korp Vétérans, Inquisition, Impénitents, Exaction, 
 - Marc : Guardes Vétérans, Compendium Scions, Space Marines du Chaos, Pathfinders Tau
 - Eugène : Kommandos Orks, Récupérateurs Âtrekog
+- Clément : Compendium Serres de l'Empereur
 - Jojo : Cercle Hierotek, Navy Breachers, Cibleurs, Parenté d'Exorodeurs
 
 
