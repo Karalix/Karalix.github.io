@@ -54,13 +54,15 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Les Seigneurs de Mars
 📗 | Les Dieux de Mars
 📗 | Les lames du cardinal 1
+📗 | Les lames du cardinal 2
 📗 | L'enfant bleu
 📗 | La fille de la Supérette
 📗 | Les 4 enquêtrices de la supérette Gwangseon
 📗 | Marque de Foi
 📗 | Le lecteur de cadavres
 📗 | Effroyables jardins
-📖 | Les lames du cardinal 2
+📖 | Ravenor 1
+📖 | La Cité du Sud 2
 📕 | SpyxFamily
 📕 | Alix Sénateur
 📕 | Les lames du cardinal 3

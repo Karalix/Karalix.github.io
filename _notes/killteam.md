@@ -18,11 +18,11 @@ Bienvenue sur la page du Segmentum Bagarrus, un secteur de la galaxie ravagé pa
 
 Rendez-vous à 8h45 chez les Ducros à Beaumont pour la mise en place. Fin estimée à 19h
 
-| Créneau            | Table 1        | Table 2          | Table 3         |
-|--------------------|----------------|------------------|-----------------|
-|   **Matin**        |   Jean & Alix  |   JF & Marc      |   Eugène & Jojo |
+| Créneau            | Table 1        | Table 2          | Table 3                  |
+|--------------------|----------------|------------------|--------------------------|
+|   **Matin**        |   Jean & Alix  |   JF & Marc      |   Eugène & Jojo          |
 |   **Après-midi 1** |   Marc & Jean  |   Eugène & JF    |   Alix, Clément & Jojo   |
-|   **Après-midi 2** |   Alix & JF    |   Eugène & Jean  |   Marc & Jojo   |
+|   **Après-midi 2** |   Alix & JF    |   Eugène & Jean  |   Marc & Jojo            |
 
 Les matchs de l'après midi 2 seront possiblement remplacé par une grande partie narrative
 
@@ -30,10 +30,10 @@ Les matchs de l'après midi 2 seront possiblement remplacé par une grande parti
 - Jean : Compendium Space Marines
 - Alix : Ravageurs de Affregors, Novices, Inquisition, Ecclsiarchie Compendium
 - JF : Sapeurs Death Korp, Kasrkins Death Korp, Death Korp Vétérans, Inquisition, Impénitents, Exaction, 
-- Marc : Guardes Vétérans, Compendium Scions, Space Marines du Chaos, Pathfinders Tau
+- Marc : Guardes Vétérans, Compendium Scions, Space Marines du Chaos, Compendium Pathfinders
 - Eugène : Kommandos Orks, Récupérateurs Âtrekog
 - Clément : Compendium Serres de l'Empereur
-- Jojo : Cercle Hierotek, Navy Breachers, Cibleurs, Parenté d'Exorodeurs
+- Jojo : Cercle Hierotek, Navy Breachers, Compendium Pathfinders, Parenté d'Exorodeurs
 
 
 ### Journée Ashes of Faith - 03/08/2023
