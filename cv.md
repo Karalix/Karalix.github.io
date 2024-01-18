@@ -3,6 +3,18 @@ title: "Curriculum Vitae"
 layout: page
 ---
 
+## Lead Frontend Engineer
+
+*January 2022 - now*
+
+[@Hormur](https://hormur.com)
+
+Development the frontend side of [Hormur](https://hormur.com): auth, forms, maps, ticketing system, messenger, backoffice, etc. I also conduct targeted UX research and design tasks: homepage, user onboarding, customer journey, and user interviews.
+
+**Keywords :** *startup*, *UX*, *Nuxt*, *PWA*, *Rest*
+
+----
+
 ## R&D Engineer & Business Developer
 
 *June 2021 - December 2021*
