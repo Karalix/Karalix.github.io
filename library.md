@@ -21,6 +21,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 - Warhammer 40k
   - Fantômes de Gaunt
   - Trilogie Eisenhorn
+  - Trilogie Ravenor
 - Avers
 - Les lames du cardinal
 - Haut Royaume
@@ -61,16 +62,16 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Marque de Foi
 📗 | Le lecteur de cadavres
 📗 | Effroyables jardins
-📖 | Ravenor 1
+📗 | Ravenor 1, 2 & 3
 📖 | La Cité du Sud 2
-📕 | SpyxFamily
 📕 | Alix Sénateur
 📕 | Les lames du cardinal 3
+📕 | L'idiot
 📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
-📕 | L'idiot
 📕 | Avers
+📕 | Le plus beau métier du monde
 📕 | Haut Royaume
 
 
