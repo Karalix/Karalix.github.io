@@ -47,15 +47,11 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Out There
 📗 | Salambô
 📗 | Ciaphas Cain 1, 2 & 3
-📗 | Eisenhorn Xenos
-📗 | Eisenhorn Malleus
-📗 | Eisenhorn Hereticus
+📗 | Eisenhorn 1, 2 & 3
 📗 | Eisenhorn Magos
 📗 | Les Prêtres de Mars
 📗 | Les Seigneurs de Mars
 📗 | Les Dieux de Mars
-📗 | Les lames du cardinal 1
-📗 | Les lames du cardinal 2
 📗 | L'enfant bleu
 📗 | La fille de la Supérette
 📗 | Les 4 enquêtrices de la supérette Gwangseon
@@ -63,10 +59,10 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Le lecteur de cadavres
 📗 | Effroyables jardins
 📗 | Ravenor 1, 2 & 3
+📗 | Les lames du cardinal 1, 2 & 3
+📖 | L'idiot
 📖 | La Cité du Sud 2
 📕 | Alix Sénateur
-📕 | Les lames du cardinal 3
-📕 | L'idiot
 📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
