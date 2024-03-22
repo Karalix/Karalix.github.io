@@ -40,7 +40,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Dune 1 ⭐⭐⭐
 📗 | Assassin Royal Cycle 1 ⭐
 📗 | La Cité du Sud 1 ⭐
-📗 | Ceux qui restent⭐⭐
+📗 | Ceux qui restent⭐⭐⭐ 
 📗 | Le livre des Martyrs
 📗 | Ephraël Stern
 📗 | Constantin de Chamberly ⭐
@@ -56,11 +56,12 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | La fille de la Supérette ⭐
 📗 | Les 4 enquêtrices de la supérette Gwangseon ⭐
 📗 | Marque de Foi
-📗 | Le lecteur de cadavres ⭐
-📗 | Effroyables jardins ⭐
+📗 | Le lecteur de cadavres ⭐⭐
+📗 | Effroyables jardins ⭐⭐
 📗 | Ravenor 1, 2 & 3 ⭐
 📗 | Les lames du cardinal 1, 2 & 3 ⭐
 📖 | L'idiot
+📖 | Bequin 1
 📖 | La Cité du Sud 2
 📕 | Alix Sénateur
 📕 | Attack on Titan
