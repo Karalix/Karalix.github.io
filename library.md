@@ -25,6 +25,10 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 - Avers
 - Les lames du cardinal
 - Haut Royaume
+- Le Chevalier Aux Épines 
+- Druide
+- Le Sang des 7 Rois
+- L'épée de vérité 
 - etc.
 
 ## Pile de lecture
@@ -62,7 +66,9 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Les lames du cardinal 1, 2 & 3 ⭐
 📖 | L'idiot
 📖 | Bequin 1
-📖 | La Cité du Sud 2
+📕 | Le problème à 3 corps
+📕 | Vita Nostra
+📕 | La Cité du Sud 2
 📕 | Alix Sénateur
 📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
@@ -70,5 +76,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📕 | Avers
 📕 | Le plus beau métier du monde
 📕 | Haut Royaume
-
-
+📕 | Druide
+📕 | Le Chevalier Aux Épines
+📕 | Le Sang des 7 Rois
+📕 | L'épée de vérité 
