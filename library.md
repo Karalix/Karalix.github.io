@@ -64,8 +64,9 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Effroyables jardins ⭐⭐
 📗 | Ravenor 1, 2 & 3 ⭐
 📗 | Les lames du cardinal 1, 2 & 3 ⭐
+📗 | Bequin 1 ⭐
 📖 | L'idiot
-📖 | Bequin 1
+📖 | Bequin 2
 📕 | Le problème à 3 corps
 📕 | Vita Nostra
 📕 | La Cité du Sud 2
