@@ -2,6 +2,9 @@
 title: "Publications"
 layout: page
 ---
+## 2024
+*Ducros Alix, Tabard Aurélien, Dalsgaard Peter, Bats Raphaëlle, and Eriksson Eva* **A design space for event-centric displays in public libraries.** Frontiers in Computer Science, 2024, vol. 6, p. 1250861. DOI: [https://doi.org/10.3389/fcomp.2024.1250861](https://doi.org/10.3389/fcomp.2024.1250861) [OpenAccess](https://www.frontiersin.org/articles/10.3389/fcomp.2024.1250861/pdf?isPublishedV2=False)
+
 ## 2020
 *Daisy Yoo, Peter Dalsgaard, Alix Ducros, Aurélien Tabard, Eva Eriksson, and Clemens Nylandsted Klokmose.* 2020. **Putting Down Roots: Exploring the Placeness of Virtual Collections in Public Libraries.** Proceedings of the 2020 ACM Designing Interactive Systems Conference. Association for Computing Machinery, New York, NY, USA, 723–734. DOI:[https://doi.org/10.1145/3357236.3395587](https://doi.org/10.1145/3357236.3395587) [HAL+PDF](https://hal.archives-ouvertes.fr/hal-02869225)
 
