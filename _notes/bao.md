@@ -47,7 +47,7 @@ Faire des portions de pâte de la taille d'une grosse noix, étaler grossièreme
 Dans chaque disque de pâte, insérer un grosse cuillère à café de farce, puis refermer en faisant tourner sur lui même le bao ainsi formé.
 Disposer sur un petit carré de papier cuisson pour éviter que le Bao ne colle lors de la cuisson.
 
-Cuire à la vapeur 20 minutes. (On peut les cuire à la poêle aussi, avec un peu d'huile et en les écrasant un peu avec une autre poêle dessus)
+Cuire à la vapeur 20 minutes. (On peut les cuire à la poêle aussi, avec un peu d'huile et en les écrasant un peu)
 
 Les Baos se congèlent très bien une fois cuits.
 
