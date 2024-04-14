@@ -41,6 +41,8 @@ Si la farce dégorge trop d'eau, ne pas hésiter à la filtrer.
 
 ## Montage
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2U56lTym-Xs?si=bLxG3E13tnejbL3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
 Faire des portions de pâte de la taille d'une grosse noix, étaler grossièrement en un petit disque aux bords fins.
 Dans chaque disque de pâte, insérer un grosse cuillère à café de farce, puis refermer en faisant tourner sur lui même le bao ainsi formé.
 Disposer sur un petit carré de papier cuisson pour éviter que le Bao ne colle lors de la cuisson.
