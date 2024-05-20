@@ -53,9 +53,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Ciaphas Cain 1, 2 & 3 ⭐
 📗 | Eisenhorn 1, 2 & 3 ⭐
 📗 | Eisenhorn Magos ⭐
-📗 | Les Prêtres de Mars
-📗 | Les Seigneurs de Mars
-📗 | Les Dieux de Mars
+📗 | Trilogie des Prêtres de Mars ❌
 📗 | L'enfant bleu ⭐
 📗 | La fille de la Supérette ⭐
 📗 | Les 4 enquêtrices de la supérette Gwangseon ⭐
@@ -65,6 +63,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Ravenor 1, 2 & 3 ⭐
 📗 | Les lames du cardinal 1, 2 & 3 ⭐
 📗 | Bequin 1 & 2 ⭐
+📗 | Requiem infernal
 📖 | L'idiot
 📕 | Le problème à 3 corps
 📕 | Vita Nostra
