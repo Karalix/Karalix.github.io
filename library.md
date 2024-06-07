@@ -39,6 +39,8 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Harry Potter et les Méthodes de la Rationalité ⭐⭐⭐
 📗 | Janua Vera ⭐⭐
 📗 | Gagner la Guerre ⭐⭐⭐
+📗 | Seul sur Mars ⭐⭐
+📗 | Artémis ❌
 📗 | Ender 1 ⭐⭐⭐
 📗 | Le Nom du Vent 1 & 2 ⭐⭐⭐
 📗 | Dune 1 ⭐⭐⭐
