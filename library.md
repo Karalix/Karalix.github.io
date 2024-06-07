@@ -64,15 +64,15 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Les lames du cardinal 1, 2 & 3 ⭐
 📗 | Bequin 1 & 2 ⭐
 📗 | Requiem infernal
+📗 | Vita Nostra ⭐⭐
+📖 | Avers
 📖 | L'idiot
 📕 | Le problème à 3 corps
-📕 | Vita Nostra
 📕 | La Cité du Sud 2
 📕 | Alix Sénateur
 📕 | Attack on Titan
 📕 | Les Montagnes Hallucinées
 📕 | La forteresse du Chaudron Noir
-📕 | Avers
 📕 | Le plus beau métier du monde
 📕 | Haut Royaume
 📕 | Druide
