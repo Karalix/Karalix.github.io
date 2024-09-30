@@ -67,6 +67,7 @@ Un mot de passe vous est demandé ? C'est `Vivelebrocoli`.
 📗 | Bequin 1 & 2 ⭐
 📗 | Requiem infernal
 📗 | Vita Nostra ⭐⭐
+📗 | Les fantômes de Gaunt 1 ⭐
 📖 | Avers
 📖 | L'idiot
 📕 | Le problème à 3 corps
